@@ -24,8 +24,8 @@ Owner can view note details.
 
 ## Team members
 
- - Tharaka Madhuwantha (Team Leader)
- - Hansika Kavindi 
- - Lahiru Chandika 
- - Mahesh Bawantha
+ - Tharaka Madhuwantha (Team Leader) - https://github.com/TharakaMadhuwantha
+ - Hansika Kavindi - https://github.com/HansiKavindi
+ - Lahiru Chandika - https://github.com/LahiruChandika
+ - Mahesh Bawantha - https://github.com/MaheshBawantha
 
